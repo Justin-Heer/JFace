@@ -1,0 +1,8 @@
+README.md
+setup.py
+JFace/__init__.py
+JFace/capture_image.py
+JFace_JHEER.egg-info/PKG-INFO
+JFace_JHEER.egg-info/SOURCES.txt
+JFace_JHEER.egg-info/dependency_links.txt
+JFace_JHEER.egg-info/top_level.txt
