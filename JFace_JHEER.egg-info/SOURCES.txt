@@ -1,7 +1,7 @@
 README.md
 setup.py
 JFace/__init__.py
-JFace/capture_image.py
+JFace/camera.py
 JFace_JHEER.egg-info/PKG-INFO
 JFace_JHEER.egg-info/SOURCES.txt
 JFace_JHEER.egg-info/dependency_links.txt
